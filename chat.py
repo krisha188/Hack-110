@@ -5,6 +5,7 @@ import pygame
 # screen size
 size = width, height = 640, 480
 
+
 # constants
 RED = (240, 20, 20)
 LIGHT_BLUE = (51, 153, 255)
