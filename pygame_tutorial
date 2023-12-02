@@ -1,1 +1,5 @@
-"
+import pygame, sys 
+import random 
+
+size = width, height = 800, 680
+screen = pygame.display.set_mode(size)
